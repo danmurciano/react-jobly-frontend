@@ -1,0 +1,39 @@
+.CompanyCard {
+  max-height: 250px;
+  margin-bottom: 20px;
+  color: inherit;
+  border: none !important;
+}
+
+.CompanyCard img {
+  height: 32px;
+  width: auto;
+  margin-bottom: 12px;
+}
+
+.CompanyCard:hover {
+  text-decoration: none;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+.company-header {
+  background-color: white;
+  border: 1px solid rgba(0,0,0,0.176);
+  border-radius: 6px;
+  padding: 24px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.company-header img {
+  height: 32px;
+  width: auto;
+  margin-bottom: 12px;
+}
+
+.company-employees {
+  font-size: 13px;
+  font-weight: bold;
+  color: #0d6efd;
+}

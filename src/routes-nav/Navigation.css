@@ -1,0 +1,20 @@
+.nav-container {
+  max-width: 1800px !important;
+}
+
+.navbar {
+  background-color: white;
+  border-bottom: 1px solid rgba(0,0,0,0.176);
+}
+
+.navbar a {
+  color: #0d6efd !important;
+}
+
+.navbar a:hover {
+  color: #094eb5 !important;
+}
+
+.nav-link.active {
+  font-weight: bold;
+}
